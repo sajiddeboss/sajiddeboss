@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hey there, I'm Sajid Hussain!
 
-<!--
-**sajiddeboss/sajiddeboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<em>
+  
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
+- 💼 I’m currently pursuing my final year of Bachelor's degree in ECE at [NITPY](https://nitpy.ac.in/);
+- 🤔 My interests are with Deep learning, MAchine learning and Image processing;
+- 💬 Ask me about anything, I am happy to help;
+- 🎬 I love watching series and I'm a big fan of Netflix;
+- 🎨 I am also a graphic designer;
+- 📫 Please email via sajidhussain.rafi@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sajidhussain3/) to reach me;
+<br/> 
+</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Worked with 
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffect"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+
+### GitHub Stats
+
+<p align="center">
+  <a href = "https://github.com/sajiddeboss">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sajiddeboss&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
+
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/sajidhussain3/
+- Kaggle: https://www.kaggle.com/sajidhussain3
+- Instagram: https://www.instagram.com/sajid_de_boss/
