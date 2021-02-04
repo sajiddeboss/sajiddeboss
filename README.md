@@ -27,13 +27,6 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffect"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/sajiddeboss">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sajiddeboss&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
 
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/sajidhussain3/
