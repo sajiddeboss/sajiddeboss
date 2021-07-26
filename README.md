@@ -4,7 +4,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently pursuing my final year of Bachelor's degree in ECE at [NITPY](https://nitpy.ac.in/);
+- 💼 I’m currently pursuing my master's in Data Science from University of Rochester
+-     I completed my Bachelor's degree in ECE at [NITPY](https://nitpy.ac.in/);
 - 🤔 My interests are with Deep learning, MAchine learning and Image processing;
 - 💬 Ask me about anything, I am happy to help;
 - 🎬 I love watching series and I'm a big fan of Netflix;
